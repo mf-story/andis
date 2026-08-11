@@ -21,33 +21,39 @@ const CONTENT_FILE = path.join(DATA_DIR, "content.json");
 const ARTICLES_FILE = path.join(DATA_DIR, "articles.json");
 const CONFIG_FILE = path.join(DATA_DIR, "admin.config.json");
 
-if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
-if (!fs.existsSync(UPLOADS_DIR)) fs.mkdirSync(UPLOADS_DIR, { recursive: true });
-// Bila memakai penyimpanan eksternal (Volume) yang masih kosong, salin data benih.
-if (DATA_DIR !== SEED_DIR) {
-  for (const f of ["content.json", "articles.json"]) {
-    const dst = path.join(DATA_DIR, f);
-    const src = path.join(SEED_DIR, f);
-    if (!fs.existsSync(dst) && fs.existsSync(src)) {
-      try { fs.copyFileSync(src, dst); } catch (e) {}
+// Inisialisasi penyimpanan (dibungkus try/catch agar aplikasi tidak crash bila
+// ada kendala izin/berkas di lingkungan hosting).
+try {
+  if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
+  if (!fs.existsSync(UPLOADS_DIR)) fs.mkdirSync(UPLOADS_DIR, { recursive: true });
+  // Bila memakai penyimpanan eksternal (Volume) yang masih kosong, salin data benih.
+  if (DATA_DIR !== SEED_DIR) {
+    for (const f of ["content.json", "articles.json"]) {
+      const dst = path.join(DATA_DIR, f);
+      const src = path.join(SEED_DIR, f);
+      if (!fs.existsSync(dst) && fs.existsSync(src)) {
+        try { fs.copyFileSync(src, dst); } catch (e) {}
+      }
     }
   }
-}
-// Pindahkan konfigurasi lama (admin.config.json di root) ke DATA_DIR bila ada.
-const OLD_CONFIG = path.join(ROOT, "admin.config.json");
-if (!fs.existsSync(CONFIG_FILE) && fs.existsSync(OLD_CONFIG)) {
-  try { fs.copyFileSync(OLD_CONFIG, CONFIG_FILE); } catch (e) {}
-}
-// Seed berkas gambar bawaan (mis. foto profil) ke Volume bila memakai penyimpanan eksternal.
-const SEED_UPLOADS = path.join(ROOT, "uploads");
-if (UPLOADS_DIR !== SEED_UPLOADS && fs.existsSync(SEED_UPLOADS)) {
-  for (const f of fs.readdirSync(SEED_UPLOADS)) {
-    try {
-      const src = path.join(SEED_UPLOADS, f);
-      const dst = path.join(UPLOADS_DIR, f);
-      if (fs.statSync(src).isFile() && !fs.existsSync(dst)) fs.copyFileSync(src, dst);
-    } catch (e) {}
+  // Pindahkan konfigurasi lama (admin.config.json di root) ke DATA_DIR bila ada.
+  const OLD_CONFIG = path.join(ROOT, "admin.config.json");
+  if (!fs.existsSync(CONFIG_FILE) && fs.existsSync(OLD_CONFIG)) {
+    try { fs.copyFileSync(OLD_CONFIG, CONFIG_FILE); } catch (e) {}
   }
+  // Seed berkas gambar bawaan (mis. foto profil) ke Volume bila memakai penyimpanan eksternal.
+  const SEED_UPLOADS = path.join(ROOT, "uploads");
+  if (UPLOADS_DIR !== SEED_UPLOADS && fs.existsSync(SEED_UPLOADS)) {
+    for (const f of fs.readdirSync(SEED_UPLOADS)) {
+      try {
+        const src = path.join(SEED_UPLOADS, f);
+        const dst = path.join(UPLOADS_DIR, f);
+        if (fs.statSync(src).isFile() && !fs.existsSync(dst)) fs.copyFileSync(src, dst);
+      } catch (e) {}
+    }
+  }
+} catch (e) {
+  console.error("  [Init] Peringatan penyiapan penyimpanan:", e.message);
 }
 
 // ---- Konfigurasi admin (password) ----
@@ -56,13 +62,13 @@ function makeHash(password, salt) {
   return crypto.scryptSync(password, salt, 64).toString("hex");
 }
 function loadConfig() {
-  if (!fs.existsSync(CONFIG_FILE)) {
-    const salt = crypto.randomBytes(16).toString("hex");
-    const cfg = { salt, hash: makeHash("admin123", salt) };
-    fs.writeFileSync(CONFIG_FILE, JSON.stringify(cfg, null, 2));
-    return cfg;
-  }
-  return JSON.parse(fs.readFileSync(CONFIG_FILE, "utf8"));
+  try {
+    if (fs.existsSync(CONFIG_FILE)) return JSON.parse(fs.readFileSync(CONFIG_FILE, "utf8"));
+  } catch (e) {}
+  const salt = crypto.randomBytes(16).toString("hex");
+  const cfg = { salt, hash: makeHash("admin123", salt) };
+  try { fs.writeFileSync(CONFIG_FILE, JSON.stringify(cfg, null, 2)); } catch (e) {}
+  return cfg;
 }
 let config = loadConfig();
 
