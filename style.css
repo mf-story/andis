@@ -369,13 +369,14 @@ body.menu-open .nav-dock { opacity: 0; pointer-events: none; }
 }
 @media (max-width: 720px) {
   .nav-links {
-    position: fixed; top: 0; right: 0; height: 100vh; width: 100%;
+    position: fixed; inset: 0; height: 100vh; width: 100%;
     flex-direction: column; align-items: center; justify-content: center;
     background: var(--paper); padding: 84px 32px 40px; gap: 18px; z-index: 98;
-    transform: translateX(100%); transition: transform .32s; box-shadow: var(--shadow);
-    overflow-y: auto;
+    opacity: 0; pointer-events: none; transform: translateY(-8px);
+    transition: opacity .28s ease, transform .28s ease;
+    overflow-y: auto; box-shadow: var(--shadow);
   }
-  .nav-links.open { transform: none; }
+  .nav-links.open { opacity: 1; pointer-events: auto; transform: none; }
   .nav-toggle { display: flex; z-index: 99; }
   .section { padding: 46px 0; }
   .hero { padding: 40px 0 40px; }
