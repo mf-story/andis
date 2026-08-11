@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Profil akademik dan ruang tulisan Prof. Dr. H. Andi Sukri Syamsuri, S.Pd., M.Hum. — Guru Besar Ilmu Linguistik. Biografi, kiprah, serta pandangan, opini, dan gagasan." />
+  <title>Prof. Dr. H. Andi Sukri Syamsuri, S.Pd., M.Hum.</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,500;1,9..144,600&family=Inter:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="scroll-progress" id="scrollProgress"></div>
+
+  <header class="navbar" id="navbar">
+    <div class="container nav-inner">
+      <a href="#hero" class="brand">
+        <span class="brand-badge">AS</span>
+        <span class="brand-name">Andi Sukri Syamsuri<small>Guru Besar</small></span>
+      </a>
+      <nav class="nav-links" id="navLinks">
+        <div class="nav-photo">
+          <img src="uploads/andis.jpg" alt="Prof. Andi Sukri Syamsuri" id="navPhotoImg">
+          <div><b>Andi Sukri Syamsuri</b><br><span>Guru Besar Ilmu Linguistik</span></div>
+        </div>
+        <a href="#about">Tentang</a>
+        <a href="#experience">Perjalanan</a>
+        <a href="#education">Pendidikan</a>
+        <a href="#works">Karya</a>
+        <a href="#writings">Tulisan</a>
+        <a href="#contact" class="nav-cta">Kontak</a>
+      </nav>
+      <button class="nav-toggle" id="navToggle" aria-label="Buka menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <section class="hero" id="hero">
+    <div class="container hero-inner">
+      <div class="hero-text reveal"></div>
+      <div class="hero-visual reveal"></div>
+    </div>
+  </section>
+
+  <section class="section" id="about"><div class="container"></div></section>
+  <section class="section section-alt" id="experience"><div class="container"></div></section>
+  <section class="section" id="education"><div class="container"></div></section>
+  <section class="section section-alt" id="works"><div class="container"></div></section>
+
+  <section class="section" id="writings">
+    <div class="container">
+      <div class="section-head reveal" id="writingsHead"></div>
+      <div class="writings-grid" id="writingsGrid"></div>
+      <div class="writings-more reveal" id="writingsMore"></div>
+    </div>
+  </section>
+
+  <section class="section section-alt" id="contact">
+    <div class="container">
+      <div class="section-head reveal" id="contactHead"></div>
+      <div class="contact-grid">
+        <div class="contact-info reveal" id="contactInfo"></div>
+        <form class="contact-form reveal" id="contactForm" novalidate>
+          <div class="field">
+            <input type="text" id="name" name="name" placeholder=" " required />
+            <label for="name">Nama Anda</label>
+          </div>
+          <div class="field">
+            <input type="email" id="email" name="email" placeholder=" " required />
+            <label for="email">Email Anda</label>
+          </div>
+          <div class="field">
+            <textarea id="message" name="message" placeholder=" " required></textarea>
+            <label for="message">Pesan</label>
+          </div>
+          <button type="submit" class="btn btn-primary btn-full">Kirim Pesan</button>
+          <p class="form-note" id="formNote"></p>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <p>© <span id="year"></span> <span id="footerText">Prof. Dr. H. Andi Sukri Syamsuri, S.Pd., M.Hum.</span></p>
+      <a href="#hero" class="to-top">↑ Ke atas</a>
+    </div>
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+</html>

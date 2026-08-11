@@ -1,0 +1,1510 @@
+{
+  "meta": {
+    "title": "Prof. Dr. H. Andi Sukri Syamsuri, S.Pd., M.Hum. — Guru Besar Ilmu Linguistik",
+    "description": "Profil akademik dan ruang tulisan Prof. Dr. H. Andi Sukri Syamsuri, S.Pd., M.Hum. — Guru Besar Ilmu Linguistik UIN Alauddin Makassar, akademisi dan pemimpin perguruan tinggi. Biografi, kiprah, serta pandangan, opini, dan gagasan tentang bahasa, pendidikan, dan kebangsaan."
+  },
+  "brand": {
+    "badge": "AS",
+    "name": "Andi Sukri Syamsuri",
+    "credential": "Prof. Dr. H. · S.Pd., M.Hum."
+  },
+  "hero": {
+    "kicker": "Guru Besar Ilmu Linguistik",
+    "nameHtml": "Prof. Dr. H. Andi Sukri Syamsuri<span class=\"amp\">,</span> <span class=\"post-nominal\">S.Pd., M.Hum.</span>",
+    "roles": [
+      "Guru Besar Ilmu Linguistik",
+      "Dosen dan Peneliti Bahasa",
+      "Penulis dan Kolumnis",
+      "Pemimpin Perguruan Tinggi"
+    ],
+    "desc": "Guru Besar Ilmu Linguistik yang menekuni bahasa, pendidikan, dan literasi, dengan rekam jejak panjang sebagai dosen dan pemimpin perguruan tinggi. Situs ini menjadi ruang rekam jejak akademik sekaligus <em>pandangan, opini, dan gagasan</em> tentang bahasa, pendidikan, dan kebangsaan.",
+    "btnPrimary": "Tentang Saya",
+    "btnPrimaryHref": "#about",
+    "btnGhost": "Karya Ilmiah",
+    "btnGhostHref": "#works",
+    "avatarImage": "uploads/andis.jpg",
+    "stats": [
+      {
+        "count": 161,
+        "label": "Publikasi Ilmiah"
+      },
+      {
+        "count": 582,
+        "label": "Sitasi"
+      },
+      {
+        "count": 11,
+        "label": "h-index"
+      }
+    ]
+  },
+  "about": {
+    "tag": "01 — Tentang",
+    "headingHtml": "Sekilas tentang diri saya",
+    "paragraphs": [
+      "<strong>Prof. Dr. H. Andi Sukri Syamsuri, S.Pd., M.Hum.</strong> — akrab disapa <strong>Andis</strong> — lahir di Tancung, daerah pesisir Danau Tempe, Kabupaten Wajo, pada 26 Juni 1971. Ia putra sulung dari empat bersaudara, dari pasangan Drs. H. Andi Syamsu Alam dan Hj. Andi Suriati Hambali, S.Pd.I., yang keduanya berlatar belakang pendidik.",
+      "Menempuh pendidikan dari SDN 29/270 Bontouse, SMPN 1 Tanasitolo, hingga SPG Negeri Sengkang, ia kemudian menyelesaikan sarjana Pendidikan Bahasa dan Sastra Indonesia di FKIP Unismuh Makassar sekaligus di IKIP Ujung Pandang (1994), lalu magister Ilmu Linguistik dan doktor di Universitas Hasanuddin.",
+      "Berkarier sebagai dosen sejak tahun 1995, ia mengemban berbagai amanah kepemimpinan — Wakil Dekan I dan Dekan FKIP Unismuh Makassar, Wakil Rektor II (2016–2025), hingga kini Wakil Rektor I Bidang Akademik dan Kerja Sama Universitas Muhammadiyah Makassar (2025–2028). Ia dikukuhkan sebagai <strong>Guru Besar dalam bidang Ilmu Linguistik</strong> pada UIN Alauddin Makassar, Fakultas Adab dan Humaniora (2022)."
+    ],
+    "list": [
+      "🎓 Guru Besar Ilmu Linguistik — UIN Alauddin Makassar",
+      "🏛️ Wakil Rektor I Universitas Muhammadiyah Makassar",
+      "📅 Lahir di Tancung, Wajo, 26 Juni 1971",
+      "📍 Makassar, Sulawesi Selatan, Indonesia"
+    ],
+    "cards": [
+      {
+        "icon": "🎓",
+        "title": "Pengajaran",
+        "text": "Mendidik dan membimbing mahasiswa di bidang bahasa, sastra, dan linguistik."
+      },
+      {
+        "icon": "🔬",
+        "title": "Penelitian",
+        "text": "Kajian linguistik dan bahasa Indonesia serta pengembangan pendidikan."
+      },
+      {
+        "icon": "🖋️",
+        "title": "Menulis",
+        "text": "Menuangkan pandangan dan gagasan lewat esai, opini, dan tulisan."
+      },
+      {
+        "icon": "🤝",
+        "title": "Kepemimpinan",
+        "text": "Mengemban amanah pimpinan perguruan tinggi dan berbagai organisasi."
+      }
+    ]
+  },
+  "experience": {
+    "tag": "02 — Perjalanan",
+    "headingHtml": "Riwayat karier, dan jabatan",
+    "items": [
+      {
+        "date": "2025 — 2028",
+        "role": "Wakil Rektor I",
+        "org": "Bidang Akademik dan Kerja Sama — Universitas Muhammadiyah Makassar",
+        "desc": "<br>"
+      },
+      {
+        "date": "2016 — 2025",
+        "role": "Wakil Rektor II",
+        "org": "Bidang Sumber Daya dan Keuangan — Universitas Muhammadiyah Makassar",
+        "desc": "<br>"
+      },
+      {
+        "date": "2006 — 2016",
+        "role": "Dekan FKIP",
+        "org": "Fakultas Keguruan dan Ilmu Pendidikan — Universitas Muhammadiyah Makassar",
+        "desc": "<br>"
+      },
+      {
+        "date": "2001 — 2006",
+        "role": "Wakil Dekan I FKIP",
+        "org": "Fakultas Keguruan dan Ilmu Pendidikan — Universitas Muhammadiyah Makassar",
+        "desc": "<br>"
+      },
+      {
+        "date": "2000 — Sekarang",
+        "role": "Dosen PNS · Guru Besar (2022)",
+        "org": "Fakultas Adab dan Humaniora — UIN Alauddin Makassar",
+        "desc": "<br>"
+      },
+      {
+        "date": "1995 — 1999",
+        "role": "Dosen Yayasan",
+        "org": "Universitas Muhammadiyah Makassar",
+        "desc": "<br>"
+      }
+    ]
+  },
+  "education": {
+    "tag": "03 — Pendidikan",
+    "headingHtml": "Latar belakang akademik",
+    "items": [
+      {
+        "icon": "🎓",
+        "date": "1990 — 1994",
+        "degree": "Sarjana Pendidikan (S.Pd.)",
+        "org": "Pendidikan Bahasa dan Sastra Indonesia — FKIP Universitas Muhammadiyah Makassar",
+        "desc": "Menyelesaikan pendidikan sarjana bidang pendidikan bahasa dan sastra Indonesia."
+      },
+      {
+        "icon": "📗",
+        "date": "1991 — 1994",
+        "degree": "Diploma III (A.Md.)",
+        "org": "Pendidikan Bahasa dan Sastra Daerah Bugis — FPBS IKIP Ujung Pandang",
+        "desc": "Menempuh pendidikan diploma bidang bahasa dan sastra daerah Bugis."
+      },
+      {
+        "icon": "📜",
+        "date": "1995 — 1997",
+        "degree": "Magister (M.Hum.)",
+        "org": "Bahasa Indonesia — Program Pascasarjana Universitas Hasanuddin",
+        "desc": "Mendalami kajian bahasa Indonesia pada jenjang magister."
+      },
+      {
+        "icon": "🏅",
+        "date": "1998 — 2006",
+        "degree": "Doktor (Dr.)",
+        "org": "Bahasa Indonesia (Linguistik Indonesia) — Program Pascasarjana Universitas Hasanuddin",
+        "desc": "Menyelesaikan program doktor bidang linguistik Indonesia."
+      }
+    ],
+    "focusTitle": "Fokus Keilmuan",
+    "focus": [
+      {
+        "icon": "🗣️",
+        "title": "Ilmu Linguistik",
+        "desc": "Kajian bahasa Indonesia: fonologi, morfologi, sintaksis, dan wacana."
+      },
+      {
+        "icon": "📚",
+        "title": "Pendidikan Bahasa dan Sastra",
+        "desc": "Pengembangan pembelajaran bahasa dan sastra Indonesia."
+      },
+      {
+        "icon": "🗂️",
+        "title": "Literasi dan Ilmu Perpustakaan",
+        "desc": "Literasi, kepustakaan, dan penguatan budaya baca-tulis."
+      }
+    ]
+  },
+  "works": {
+    "tag": "04 — Karya Ilmiah",
+    "headingHtml": "Karya Ilmiah",
+    "sub": "Rekam jejak publikasi, daftar karya ilmiah, penelitian, dan pengabdian kepada masyarakat.",
+    "scholarTitle": "Rekam Jejak Publikasi",
+    "scholarStats": [
+      {
+        "icon": "📄",
+        "value": "161",
+        "label": "Publikasi"
+      },
+      {
+        "icon": "📈",
+        "value": "582",
+        "label": "Sitasi"
+      },
+      {
+        "icon": "🏅",
+        "value": "11",
+        "label": "h-index"
+      }
+    ],
+    "scholarUrl": "https://scholar.google.co.id/citations?user=Inygb3UAAAAJ&hl=id&authuser=1&oi=ao",
+    "scholarBtn": "Lihat di Google Scholar ↗",
+    "sintaUrl": "https://sinta.kemdiktisaintek.go.id/authors/profile/6013084",
+    "sintaBtn": "Lihat di SINTA ↗",
+    "scopusUrl": "https://www.scopus.com/pages/authors/57216282015",
+    "scopusBtn": "Lihat di Scopus ↗",
+    "scopusTitle": "Rekam Jejak Scopus",
+    "scopusStats": [
+      {
+        "icon": "📄",
+        "value": "—",
+        "label": "Dokumen"
+      },
+      {
+        "icon": "📈",
+        "value": "—",
+        "label": "Sitasi"
+      },
+      {
+        "icon": "🏅",
+        "value": "—",
+        "label": "h-index"
+      }
+    ],
+    "worksListTitle": "Daftar Karya Ilmiah",
+    "kiprahTitle": "Amanah, Kiprah, dan Rekam Jejak Lainnya",
+    "kiprahColumns": [
+      {
+        "icon": "🤝",
+        "title": "Amanah Organisasi",
+        "items": [
+          {
+            "title": "Ketua Umum — DPP Ikatan Keluarga Alumni Unismuh Makassar",
+            "meta": "2026–2030"
+          },
+          {
+            "title": "Ketua Umum — HISKI Komisariat Sulawesi Selatan",
+            "meta": "2026–2030"
+          },
+          {
+            "title": "Bendahara Umum — PP Asosiasi LPTK (ALPTKSI) PTS se-Indonesia",
+            "meta": "2025–2029"
+          },
+          {
+            "title": "Tim Pakar — APEBSKID Sulawesi Selatan",
+            "meta": "2025–2028"
+          },
+          {
+            "title": "Ketua Umum — KAPROBSI Sulawesi Selatan–Tenggara",
+            "meta": "2024–2028"
+          },
+          {
+            "title": "Ketua VIII — PP Ikatan Keluarga Prodi Bahasa Indonesia (IKAPROBSI)",
+            "meta": "2024–2028"
+          },
+          {
+            "title": "Wakil Ketua I — Dunia Melayu Dunia Islam Sulawesi Selatan",
+            "meta": "2024–2029"
+          },
+          {
+            "title": "Wakil Ketua — Pengurus Wilayah ICMI Sulawesi Selatan",
+            "meta": "2023–2028"
+          },
+          {
+            "title": "Ketua — Lembaga Pengembangan Cabang, Ranting & Pembinaan Masjid PWM Sulsel",
+            "meta": "2022–2027"
+          },
+          {
+            "title": "Pembina — ASPAPI (Asosiasi Sarjana & Praktisi Administrasi Perkantoran)",
+            "meta": "2022–2024"
+          },
+          {
+            "title": "Sekretaris Umum — Himpunan Pembina Bahasa Indonesia (HPBI) Sulsel",
+            "meta": "2022–2024"
+          },
+          {
+            "title": "Ketua Umum — IKA SMP Negeri 1 Tanasitolo, Wajo",
+            "meta": "2021–2025"
+          },
+          {
+            "title": "Ketua Umum — IKA SMP Negeri Tanasitolo, Wajo",
+            "meta": "2021–2024"
+          },
+          {
+            "title": "Ketua Bidang — Pengurus PGRI Provinsi Sulawesi Selatan",
+            "meta": "2019–2024"
+          },
+          {
+            "title": "Koordinator Bidang — Pusat Kajian & Advokasi Halal Indonesia",
+            "meta": "2019–2023"
+          },
+          {
+            "title": "Anggota — Forum Inovasi Daerah Sulawesi Selatan",
+            "meta": "2019–2023"
+          },
+          {
+            "title": "Sekretaris — Dewan Pakar IKA Universitas Negeri Makassar (IKIP UP)",
+            "meta": "2019–2023"
+          },
+          {
+            "title": "Sekretaris Jenderal — PP Kesatuan Masyarakat Wajo (Kemawa)",
+            "meta": "2018–2028"
+          },
+          {
+            "title": "Tim Seleksi — KPU Provinsi Sulawesi Selatan",
+            "meta": "2018"
+          },
+          {
+            "title": "Bendahara Umum — Asosiasi LPTK Pusat PTS Indonesia",
+            "meta": "2017–2021"
+          },
+          {
+            "title": "Wakil Sekretaris — ICMI Provinsi Sulawesi Selatan",
+            "meta": "2017–2022"
+          },
+          {
+            "title": "Anggota — HISKI Provinsi Sulawesi Selatan",
+            "meta": "2017–2020"
+          },
+          {
+            "title": "Ketua Asosiasi — LPTK PTS Wilayah IX Sulawesi",
+            "meta": "2016–2020"
+          },
+          {
+            "title": "Ketua — Ikatan Alumni SPGN Sengkang",
+            "meta": "2016–2020"
+          },
+          {
+            "title": "Anggota — Ikatan Sarjana/Pengusaha Muslim Indonesia Sulsel",
+            "meta": "2016–2020"
+          },
+          {
+            "title": "Sekretaris — Asosiasi LPTK PTS Indonesia",
+            "meta": "2014–2018"
+          },
+          {
+            "title": "Ketua Umum — PGRI Cabang Khusus Unismuh Makassar",
+            "meta": "2014–2017"
+          },
+          {
+            "title": "Bidang Pengembangan Karier Guru & Dosen — PGRI Sulawesi Selatan",
+            "meta": "2014–2018"
+          },
+          {
+            "title": "Ketua Bidang Diklat (LPTK) — APTISI Wilayah Sulawesi",
+            "meta": "2012–2016"
+          },
+          {
+            "title": "Tim Seleksi — KPU Kabupaten Wajo",
+            "meta": "2012"
+          },
+          {
+            "title": "Asesor Sertifikasi Guru — Rayon 146 Unismuh Makassar",
+            "meta": "2006–sekarang"
+          },
+          {
+            "title": "Wakil Ketua — Majelis Dikdasmen PWM Sulawesi Selatan",
+            "meta": "—"
+          }
+        ]
+      },
+      {
+        "icon": "🏅",
+        "title": "Penghargaan dan Beasiswa",
+        "items": [
+          {
+            "title": "Satyalancana Karya Satya 20 Tahun",
+            "meta": "Presiden Republik Indonesia · 2021"
+          },
+          {
+            "title": "Satyalancana Karya Satya 10 Tahun",
+            "meta": "Presiden Republik Indonesia · 2014"
+          },
+          {
+            "title": "Penghargaan KPID Sulawesi Selatan",
+            "meta": "Komisi Penyiaran Indonesia Daerah · 2024"
+          },
+          {
+            "title": "Mahasiswa Teladan/Berprestasi Republik Indonesia",
+            "meta": "1993 · undangan ke Istana Negara"
+          },
+          {
+            "title": "Beasiswa Supersemar dan Beasiswa PPA",
+            "meta": "Semasa studi sarjana"
+          },
+          {
+            "title": "Beasiswa Pendidikan Doktor Pemerintah RI",
+            "meta": "Program Doktor"
+          }
+        ]
+      },
+      {
+        "icon": "🌏",
+        "title": "Kiprah Nasional dan Internasional",
+        "items": [
+          {
+            "title": "Guest Speaker — Universiti Pendidikan Sultan Idris, Malaysia",
+            "meta": "2026 · Transformation of Language Education in the Digital & Global Era"
+          },
+          {
+            "title": "Narasumber — International Joint Seminar Unismuh × Universiti Pendidikan Sultan Idris",
+            "meta": "2026"
+          },
+          {
+            "title": "Narasumber — Lokakarya Penulisan HISKI ‘Taufik Ismail untuk Nobel Sastra’",
+            "meta": "2026"
+          },
+          {
+            "title": "Guest Speaker — Universiti Sains Malaysia (Nusantara Malay Archipelago Lecture Series)",
+            "meta": "2025"
+          },
+          {
+            "title": "Guest Speaker — UMAM, Malaysia (Nusantara School of Thought Lecture Series)",
+            "meta": "2025"
+          },
+          {
+            "title": "Narasumber — Singapore Polytechnic International Learning Express (Design Thinking)",
+            "meta": "2025"
+          },
+          {
+            "title": "Narasumber — UNAIM (Peran Pembelajaran Bahasa Indonesia)",
+            "meta": "2025"
+          },
+          {
+            "title": "Narasumber — Seminar Internasional Manuskrip Nusantara, Jakarta",
+            "meta": "2024"
+          },
+          {
+            "title": "Pemateri — Mimbar Kajian Multidisiplin APEBSKID",
+            "meta": "2024"
+          },
+          {
+            "title": "Pemateri — Sedaring Nasional MGMP Bahasa Indonesia (AI dalam Pembelajaran), Barru",
+            "meta": "2024"
+          },
+          {
+            "title": "Keynote Speaker — International Seminar HISKI ‘Humanity and Peace Values Through Literature’",
+            "meta": "2023"
+          },
+          {
+            "title": "Narasumber — Studium Generale Unismuh × Yala Rajabhat University, Thailand",
+            "meta": "2023"
+          },
+          {
+            "title": "Presenter — Seminar Nasional Bahasa Ibu XIV, Universitas Udayana, Bali",
+            "meta": "2022"
+          },
+          {
+            "title": "Narasumber — Seminar Nasional NISANI FKIP Universitas Tadulako, Palu",
+            "meta": "2022"
+          },
+          {
+            "title": "Narasumber — Lokakarya Pemutakhiran Kamus Bahasa Bugis–Indonesia, Balai Bahasa Sulsel",
+            "meta": "2022"
+          },
+          {
+            "title": "Narasumber — Seminar Nasional ‘Eksistensi Bahasa di Era Society 5.0’",
+            "meta": "2022"
+          },
+          {
+            "title": "Invited Speaker — International Seminar & Book Review ‘Mamonism’, UHAMKA Press",
+            "meta": "2021"
+          },
+          {
+            "title": "Narasumber — Advisory Board Program BASAibu Makassar–Gowa",
+            "meta": "2021"
+          },
+          {
+            "title": "Pemateri — Symposium Guru & Launching Gerakan Literasi Guru Makassar",
+            "meta": "2021"
+          },
+          {
+            "title": "Keynote Speaker — 3rd International Conference on Education Studies (ICES)",
+            "meta": "2019"
+          },
+          {
+            "title": "Keynote Speaker — 5th International Seminar on Quality & Affordable Education (ISQAE)",
+            "meta": "2016 · Yogyakarta"
+          },
+          {
+            "title": "Pemakalah — Kongres Bahasa Indonesia X & XI, Jakarta",
+            "meta": "2013 & 2018"
+          },
+          {
+            "title": "Pemakalah — seminar internasional bahasa & sastra",
+            "meta": "Brunei, Singapura, Malaysia, Thailand, Hongkong, Beijing"
+          },
+          {
+            "title": "Tim Penyusun Perencanaan Tenaga Pendidik",
+            "meta": "Ditjen Ketenagaan Kemendikbud RI · sejak 2008"
+          }
+        ]
+      },
+      {
+        "icon": "🎓",
+        "title": "Pengalaman Akademik Lainnya",
+        "items": [
+          {
+            "title": "Penguji Utama Program Doktor (S-3) — Muhammad Fajar Hidayat",
+            "meta": "2026 · UIN Alauddin Makassar"
+          },
+          {
+            "title": "Penguji Eksternal Program Doktor (S-3) — Andi Budi Harsono",
+            "meta": "2026 · Universitas Negeri Makassar"
+          },
+          {
+            "title": "Penguji Eksternal Program Doktor (S-3) — Roni Andri Pramita",
+            "meta": "2026 · Universitas Negeri Makassar"
+          },
+          {
+            "title": "Penguji Eksternal Program Doktor (S-3) — Fadhilah",
+            "meta": "2025 · Universitas Negeri Makassar"
+          },
+          {
+            "title": "Penguji Eksternal Program Doktor (S-3) — Lukas Bera",
+            "meta": "2025 · Universitas Negeri Makassar"
+          },
+          {
+            "title": "Penguji Eksternal Program Doktor (S-3) — Ernawati",
+            "meta": "2023 · Universitas Negeri Makassar"
+          },
+          {
+            "title": "Penguji Internal Program Doktor (S-3) — Perdy Karuru",
+            "meta": "2022 · Universitas Negeri Makassar"
+          },
+          {
+            "title": "Penguji Internal Program Doktor (S-3) — Masykur",
+            "meta": "2022 · Universitas Negeri Makassar"
+          },
+          {
+            "title": "Penguji Internal Program Doktor (S-3) — Ernawati",
+            "meta": "2022 · Universitas Negeri Makassar"
+          },
+          {
+            "title": "Penguji Program Doktor (S-3) — Iskandar",
+            "meta": "2021 · Universitas Negeri Makassar"
+          },
+          {
+            "title": "Penguji Program Doktor (S-3) — Ratnawati",
+            "meta": "2021 · Universitas Negeri Makassar"
+          },
+          {
+            "title": "Ko-Promotor Program Doktor (S-3) — Hayung",
+            "meta": "2021 · Universitas Negeri Makassar"
+          },
+          {
+            "title": "Penguji Utama Program Doktor (S-3) — Muaffaq",
+            "meta": "2020 · UIN Alauddin Makassar"
+          },
+          {
+            "title": "Penguji Utama II Program Doktor (S-3) — Muh. Ali Bakri",
+            "meta": "2019 · UIN Alauddin Makassar"
+          },
+          {
+            "title": "Penguji Utama II Program Doktor (S-3) — Rahmiati",
+            "meta": "2019 · UIN Alauddin Makassar"
+          },
+          {
+            "title": "Ko-Promotor Program Doktor (S-3) — Asia",
+            "meta": "2018 · Universitas Negeri Makassar"
+          },
+          {
+            "title": "Ko-Promotor Program Doktor (S-3) — Hasriani",
+            "meta": "2018 · Universitas Negeri Makassar"
+          },
+          {
+            "title": "Ko-Promotor Program Doktor (S-3) — Haslinda",
+            "meta": "2017 · Universitas Negeri Makassar"
+          },
+          {
+            "title": "Ko-Promotor Program Doktor (S-3) — Muhammad Akhir",
+            "meta": "2017 · Universitas Negeri Makassar"
+          },
+          {
+            "title": "Penguji Internal Program Doktor (S-3) — Tarman",
+            "meta": "2016 · Universitas Negeri Makassar"
+          },
+          {
+            "title": "Penguji Eksternal Program Doktor (S-3) — Syamsurijal",
+            "meta": "2016 · Universitas Negeri Makassar"
+          },
+          {
+            "title": "Penguji Eksternal Program Doktor (S-3) — Edy Sabara",
+            "meta": "2016 · Universitas Negeri Makassar"
+          },
+          {
+            "title": "Penguji Eksternal Program Doktor (S-3) — Abdul Halim Muharram",
+            "meta": "2014 · Universitas Negeri Makassar"
+          },
+          {
+            "title": "Ko-Promotor Disertasi Doktor (S-3) — Usman",
+            "meta": "2014 · Universitas Negeri Makassar"
+          }
+        ]
+      },
+      {
+        "icon": "📚",
+        "title": "Penulisan Buku",
+        "items": [
+          {
+            "title": "Antologi Bahasa dan Sastra Indonesia & Daerah",
+            "meta": "2024 · CV. Haura Utama (172 hlm)"
+          },
+          {
+            "title": "Guru dan Literasi",
+            "meta": "2021 · Farha Pustaka (165 hlm)"
+          },
+          {
+            "title": "Pendidikan Guru dan Pembelajaran",
+            "meta": "2021 · Nas Media (228 hlm)"
+          },
+          {
+            "title": "Pemartabatan Bahasa Indonesia",
+            "meta": "2020 · UHAMKA Press (123 hlm)"
+          },
+          {
+            "title": "Pelestarian dan Pemertahanan Bahasa dan Sastra Bugis",
+            "meta": "2020 · Nas Media (114 hlm)"
+          },
+          {
+            "title": "Keterampilan Menyimak dan Ancangan Pembelajarannya (Hak Cipta)",
+            "meta": "2018 · UPT Perpustakaan UIN Alauddin"
+          },
+          {
+            "title": "Higher Education Institutional and Social Transformation of Students",
+            "meta": "2016 · Universiti Teknologi Malaysia (408 hlm)"
+          },
+          {
+            "title": "Pencendikiaan Bahasa Indonesia (Sumpah Pemuda hingga Reformasi)",
+            "meta": "2014 · Alauddin University Press"
+          },
+          {
+            "title": "Penerapan Bahasa untuk Tujuan Khusus dalam Pembelajaran Bahasa Indonesia",
+            "meta": "2014 · Badan Penerbit UNM"
+          },
+          {
+            "title": "Pedoman Penulisan Skripsi",
+            "meta": "2014 · FKIP Unismuh Makassar"
+          },
+          {
+            "title": "Keterampilan Menyimak dan Ancangan Pembelajarannya",
+            "meta": "2013 · Penerbit Panrita"
+          },
+          {
+            "title": "Pencendekiaan Peristilahan Bahasa Indonesia (Kongres I hingga Reformasi)",
+            "meta": "2012 · UIN Alauddin Makassar"
+          },
+          {
+            "title": "Pedoman Penulisan Skripsi",
+            "meta": "2012 · Panrita Press Unismuh"
+          },
+          {
+            "title": "Pembelajaran Sastra",
+            "meta": "2012 · Pustaka Lontara"
+          },
+          {
+            "title": "Teori dan Apresiasi Sastra",
+            "meta": "2012 · Panrita Press"
+          },
+          {
+            "title": "Keberterimaan Istilah Bahasa Indonesia",
+            "meta": "2011 · LP3M Unismuh"
+          },
+          {
+            "title": "Bahasa Indonesia: Mata Kuliah Dasar Umum",
+            "meta": "2011 · Pustaka Lontara"
+          },
+          {
+            "title": "Bahasa Indonesia (MKDU)",
+            "meta": "2010 · Unismuh Makassar"
+          },
+          {
+            "title": "Teori dan Apresiasi Sastra Anak",
+            "meta": "2009 · BP Unismuh Makassar (70 hlm)"
+          },
+          {
+            "title": "Bahasa Indonesia",
+            "meta": "2007 · FIP Universitas Negeri Makassar"
+          }
+        ]
+      },
+      {
+        "icon": "🧩",
+        "title": "Pelatihan & Pengembangan Diri",
+        "items": [
+          {
+            "title": "Penilai Apresiasi GTK",
+            "meta": "2025 · Kementerian Pendidikan Dasar dan Menengah"
+          },
+          {
+            "title": "Bimtek Penulisan Proposal Pengabdian kepada Masyarakat",
+            "meta": "2025 · Kemendikbud RI"
+          },
+          {
+            "title": "Training of Trainer PEKERTI & Applied Approach",
+            "meta": "2024 · Universitas Pendidikan Indonesia"
+          },
+          {
+            "title": "Panelis Debat Publik Pilkada",
+            "meta": "2024 · KPU Kabupaten Wajo"
+          },
+          {
+            "title": "QPOA Enrichment Session (gelar QPOA)",
+            "meta": "2022 · LSP Administrasi Perkantoran"
+          },
+          {
+            "title": "Uji Kompetensi Administrasi Perkantoran",
+            "meta": "2022 · LSP Administrasi Perkantoran"
+          },
+          {
+            "title": "Workshop Penyusunan Dokumen Portofolio",
+            "meta": "2022 · LSP Administrasi Perkantoran"
+          },
+          {
+            "title": "Peserta — Penulisan Karya Ilmiah & Jurnal Bereputasi",
+            "meta": "2022 · Unismuh Makassar"
+          },
+          {
+            "title": "Penyegaran & Persamaan Persepsi Asesor BKD",
+            "meta": "2021 · Ditjen Dikti, Riset & Teknologi"
+          },
+          {
+            "title": "Asesor BKD/Sertifikasi Dosen",
+            "meta": "2021 · Unismuh Makassar"
+          },
+          {
+            "title": "Juri — Lomba Guru Penggerak Literasi",
+            "meta": "2021 · LPMP Sulawesi Barat"
+          },
+          {
+            "title": "Penyelia Uji Pengetahuan PPG",
+            "meta": "2020 · Universitas Negeri Makassar"
+          },
+          {
+            "title": "Penyelia Uji Pengetahuan PPG",
+            "meta": "2020 · Universitas Khairun Ternate"
+          },
+          {
+            "title": "Penyelia Ujian Kinerja (UKin) PPG",
+            "meta": "2020 · Universitas Lambung Mangkurat"
+          },
+          {
+            "title": "Penyelia Ujian Kinerja (UKin) PPG",
+            "meta": "2020 · Universitas Pattimura"
+          },
+          {
+            "title": "Mitra Bestari Artikel Ilmiah",
+            "meta": "2020–sekarang · LPMP"
+          }
+        ]
+      }
+    ],
+    "researchTitle": "Penelitian, Pengabdian, dan HKI",
+    "columns": [
+      {
+        "icon": "🔬",
+        "title": "Penelitian",
+        "items": [
+          {
+            "title": "Integrasi Budaya Lokal dalam Pengembangan Bahan Ajar Bahasa Indonesia bagi Penutur Asing",
+            "meta": "2019 · Penelitian Internal"
+          },
+          {
+            "title": "Pengembangan Profesionalisme Guru Berbasis Lesson Study melalui Sekolah Percontohan di Desa Terpencil",
+            "meta": "2020 · Penelitian Internal"
+          },
+          {
+            "title": "Analisis Hasil UKG: Kompetensi Pedagogik dan Profesional Guru IPA SMP Se-Kabupaten Takalar",
+            "meta": "2015 · Kemendikbud RI"
+          },
+          {
+            "title": "Hasil Uji Kompetensi Guru Bidang Fisika pada Guru SMP Kabupaten Takalar",
+            "meta": "2016 · Kemendikbud RI"
+          }
+        ]
+      },
+      {
+        "icon": "🤲",
+        "title": "Pengabdian kepada Masyarakat",
+        "items": [
+          {
+            "title": "Program Dana Indonesia",
+            "meta": "2025 · Kementerian Kebudayaan RI"
+          },
+          {
+            "title": "PPM Hipermawa Komisariat Tanasitolo, Kecamatan Tanasitolo",
+            "meta": "2020 · Pengabdian Internal Unismuh Makassar"
+          }
+        ]
+      },
+      {
+        "icon": "📜",
+        "title": "Hak Kekayaan Intelektual dan Paten",
+        "items": [
+          {
+            "title": "Pappaseng Ri Elompugi — Petuah dalam Lirik & Puisi (Kearifan Lokal Bugis)",
+            "meta": "2025 · HKI · No. 000940301"
+          },
+          {
+            "title": "Tafsir Ayat-Ayat Pendidikan Berwawasan Multikultural",
+            "meta": "2025 · HKI · No. 000930798"
+          },
+          {
+            "title": "Pendidikan, Guru, dan Pembelajaran",
+            "meta": "2021 · Hak Cipta · No. 000253845"
+          },
+          {
+            "title": "Guru dan Literasi",
+            "meta": "2021 · Hak Cipta"
+          },
+          {
+            "title": "Pemartabatan Bahasa Indonesia",
+            "meta": "2020 · Hak Cipta · No. 000207702"
+          },
+          {
+            "title": "Pelestarian dan Pemertahanan Bahasa dan Sastra Bugis",
+            "meta": "2020 · Hak Cipta · No. 000196333"
+          },
+          {
+            "title": "Pembelajaran Kelas Rangkap",
+            "meta": "2018 · Hak Cipta · No. 000138003"
+          },
+          {
+            "title": "Bahasa Indonesia",
+            "meta": "2018 · Hak Cipta · No. 000109099"
+          },
+          {
+            "title": "Keterampilan Menyimak dan Rancangan Pembelajarannya",
+            "meta": "2013 · Hak Cipta · No. 000109330"
+          },
+          {
+            "title": "Pencendekiawanan Bahasa Indonesia dari Sumpah Pemuda hingga Pasca Orde Baru",
+            "meta": "2012 · Hak Cipta · No. 000109331"
+          }
+        ]
+      }
+    ],
+    "publications": [
+      {
+        "title": "Pendidikan Guru dan Pembelajaran",
+        "meta": "Nas Media Pustaka, 2021 · 86 sitasi"
+      },
+      {
+        "title": "Analisis penggunaan gaya bahasa sarkasme netizen di media sosial Instagram",
+        "meta": "Jurnal Onoma: Pendidikan, Bahasa, Dan Sastra 7 (2), 411-423, 2021 · 68 sitasi"
+      },
+      {
+        "title": "Do gender and regional differences affect students' reading literacy? a case study in Indonesia",
+        "meta": "Eurasian Journal of Applied Linguistics 8 (1), 97-110, 2022 · 36 sitasi"
+      },
+      {
+        "title": "Pengaruh kemampuan membaca dan menulis terhadap kemampuan menyelesaikan soal cerita matematika",
+        "meta": "Jurnal Riset Dan Inovasi Pembelajaran 1 (3), 115-129, 2021 · 32 sitasi"
+      },
+      {
+        "title": "Analisis Instrumen Tes Hasil Belajar Berbasis Higher Order Thinking Skill (Hots)",
+        "meta": "Jurnal Riset Dan Inovasi Pembelajaran 1 (3), 88-101, 2021 · 25 sitasi"
+      },
+      {
+        "title": "The effectiveness of caricature media in learning writing of argumentation paragraph",
+        "meta": "Theory and Practice in Language Studies 6 (11), 2079-2086, 2016 · 20 sitasi"
+      },
+      {
+        "title": "Pengaruh penggunaan media audio visual film animasi terhadap keterampilan menyimak mata pelajaran bahasa Indonesia siswa sekolah dasar",
+        "meta": "Jurnal Konsepsi 12 (1), 11-22, 2023 · 14 sitasi"
+      },
+      {
+        "title": "BUDAYA MASYARAKAT BUGIS DALAM ASPEK PERKAHWINAN, KOMUNIKASI DAN MAKANAN WARISAN.",
+        "meta": "Kajian Malaysia: Journal of Malaysian Studies 40 (2), 227, 2022 · 14 sitasi"
+      },
+      {
+        "title": "Pedoman Penulisan Skripsi",
+        "meta": "Makassar: Fkip Unismuh Makassar, 2013 · 13 sitasi"
+      },
+      {
+        "title": "Critical thinking pattern in argumentation: A study on EFL higher education students in Indonesia",
+        "meta": "The International Journal of Learning in Higher Education 31 (1), 177, 2024 · 12 sitasi"
+      },
+      {
+        "title": "Perbandingan Metode Montessori Dan Metode Sas Terhadap Peningkatan Keterampilan Membaca Permulaan Siswa Kelas I Sdit Raffasya Baitul Makmur",
+        "meta": "Pendas: Jurnal Ilmiah Pendidikan Dasar 7 (2), 216-225, 2022 · 11 sitasi"
+      },
+      {
+        "title": "The competence of Indonesian language and literature teachers through network learning in two teacher professional education modes",
+        "meta": "International Journal of Advanced Science and Technology 29 (4), 1783-1794, 2020 · 11 sitasi"
+      },
+      {
+        "title": "Pengaruh metode field trip berbantuan media magic box terhadap keterampilan menulis karangan deskripsi dan motivasi belajar siswa kelas V",
+        "meta": "Jurnal basicedu 7 (5), 3290-3298, 2023 · 10 sitasi"
+      },
+      {
+        "title": "Peran pembelajaran bahasa dan sastra Indonesia dalam membentuk karakter pada era VUCA",
+        "meta": "Bahasa: Jurnal Keilmuan Pendidikan Bahasa dan Sastra Indonesia 5 (1), 11-21, 2023 · 9 sitasi"
+      },
+      {
+        "title": "Pengaruh penggunaan metode konvensional berbantuan media gambar terhadap kemampuan berbicara siswa kelas iv sekolah dasar di kota makassar",
+        "meta": "Syntax Literate 5 (6), 192-201, 2020 · 9 sitasi"
+      },
+      {
+        "title": "The Improvement of Fiction Prose Study as a Teaching Material Based on Makassar Local Wisdom Integrated with Mobile Learning at FKIP Universitas Muhammadiyah Makassar",
+        "meta": "Journal of Language Teaching and Research 8 (5), 915-922, 2017 · 9 sitasi"
+      },
+      {
+        "title": "Tapak suci dan karakter siswa",
+        "meta": "Equilibrium: Jurnal Pendidikan Sosiologi 4 (2), 60557, 2016 · 8 sitasi"
+      },
+      {
+        "title": "Bahasa Indonesia sebagai penghela ilmu pengetahuan dan wahana ipteks; Pembentukan istilah sebagai salah satu usaha mewujudkannya [Indonesian as a source of knowledge and a …",
+        "meta": "Kumpulan_Makalah_Kongres Bahasa Indonesia X_Subtema_1 [Indonesian …, 2015 · 8 sitasi"
+      },
+      {
+        "title": "Keberterimaan istilah bahasa indonesia",
+        "meta": "Kajian Linguistik dan Sastra 23 (2), 109-122, 2011 · 8 sitasi"
+      },
+      {
+        "title": "Bahasa Indonesia Mata Kuliah Dasar Umum",
+        "meta": "Makassar: Pustaka Lontara, 2017 · 7 sitasi"
+      },
+      {
+        "title": "Profesionalisme Guru Pascasertifikasi",
+        "meta": "Equilibrium: Jurnal Pendidikan Sosiologi 4 (2), 60796, 2017 · 7 sitasi"
+      },
+      {
+        "title": "Pelestraian dan Pemertahanan Bahasa dan sastra Bugis",
+        "meta": "IN Patent 000,196,333, 2020 · 6 sitasi"
+      },
+      {
+        "title": "Pelestarian dan Pemertahanan Bahasa dan Sastra Bugis",
+        "meta": "Penerbit Nasmedia ISBN 978-623-7644-58-3 1, 67, 2020 · 6 sitasi"
+      },
+      {
+        "title": "REPRESENTASI BENTUK SARKASME PADA KOLOM KOMENTAR TIKTOK: REPRESENTATION OF SARCASM IN TIKTOK COMMENT COLUMN",
+        "meta": "Aufklarung: Jurnal Kajian Bahasa, Sastra Indonesia, dan Pembelajarannya 3 (3 …, 2024 · 5 sitasi"
+      },
+      {
+        "title": "The effect of critical literacy-based literature reading on critical thinking skills: A study on the first-year students in university",
+        "meta": "The International Journal of Literacies 32 (1), 53, 2024 · 5 sitasi"
+      },
+      {
+        "title": "Facebook Social Media: How does it Affect First-Year Students' Description Writing Skills?",
+        "meta": "AL-ISHLAH: Jurnal Pendidikan 14 (3), 2973-2984, 2022 · 5 sitasi"
+      },
+      {
+        "title": "Pengaruh Kecerdasan Spritual, Kecerdasan Intelektual, Dan Kecerdasan Emosional Terhadap Kinerja Guru Di Smp Islam Athirah 1 Makassar",
+        "meta": "Competitiveness 10 (1), 1-17, 2021 · 5 sitasi"
+      },
+      {
+        "title": "Pembelajaran Bahasa Indonesia dengan Teknik Permainan Kelompok Siswa Kelas V di SDN 110 Lagoari di Kabupaten Wajo",
+        "meta": "Edumaspul: Jurnal Pendidikan 4 (1), 88-97, 2020 · 5 sitasi"
+      },
+      {
+        "title": "Pengaruh Metode Preview, Question, Read, Reflect, Recite and Review (PQ4R) terhadap Membaca Pemahaman Siswa Kelas V SD Inpres Tetebatu Kabupaten Gowa",
+        "meta": "JIKAP PGSD: JURNAL ILMIAH ILMU KEPENDIDIKAN Учредители: Universitas Negeri …, 2020 · 5 sitasi"
+      },
+      {
+        "title": "Exploring the impact of Learning Management Systems on learning processes: Insights from pre-service PPG students responses",
+        "meta": "Jurnal Pendidikan dan Pengajaran 57 (3), 469-479, 2024 · 4 sitasi"
+      },
+      {
+        "title": "Optimising Empowerment of Fostered Villages for Increased Income of Tambak Farmers in Bulu Cindea Village",
+        "meta": "IOP Conference Series: Earth and Environmental Science 1289 (1), 012002, 2023 · 4 sitasi"
+      },
+      {
+        "title": "Analisis Perubahan Fonem Bahasa Indonesia pada Penutur Bahasa Makassar Mahasiswa Program Studi Pendidikan Bahasa dan Sastra Indonesia Angkatan 2019 Unismuh Makassar",
+        "meta": "Innovative: Journal Of Social Science Research 3 (2), 5940-5951, 2023 · 4 sitasi"
+      },
+      {
+        "title": "Peningkatan Kemampuan Menulis Naskah Drama melalui Media Video Pembelajaran pada Siswa Kelas XI SMK Yapmi Makassar",
+        "meta": "Jurnal Konsepsi 11 (1), 53-61, 2022 · 4 sitasi"
+      },
+      {
+        "title": "Jurnal Profesi Keguruan",
+        "meta": "Jurnal Profesi Keguruan 6 (1), 54-63, 2020 · 4 sitasi"
+      },
+      {
+        "title": "Teacher Orientation of Post Competence Mapping in 21st Century Teaching Systems",
+        "meta": "Internasional Journal of Innovation, Creativity and Change. 12 (0), 468-484, 2020 · 4 sitasi"
+      },
+      {
+        "title": "Representasi Nilai Pendidikan Karakter dalam Bacaan Nonfiksi Biografi Pahlawan Nasional (Suatu Kajian Sastra Anak)",
+        "meta": "UNIVERSITAS NEGERI MAKASSAR, 2018 · 4 sitasi"
+      },
+      {
+        "title": "Representation of character education values in nonfiction stories of national heroes biography (A study of children’s literature)",
+        "meta": "IOSR Journal of Humanities and Social Science (IOSR-JHSS) 23 (7), 6-11, 2018 · 4 sitasi"
+      },
+      {
+        "title": "Keterampilan Menyimak dan Ancangan Pembelajarannya",
+        "meta": "Makassar: All Rights Reserved, 2013 · 4 sitasi"
+      },
+      {
+        "title": "Penggunaan audio pembelajaran interaktif terhadap kemampuan menyimak cerita pendek siswa kelas V SD Inpres Batua II Kota Makassar",
+        "meta": "Edu Research 6 (4), 3665-3674, 2025 · 3 sitasi"
+      },
+      {
+        "title": "The Ethics of AI in Literature: Reflections On Representation and Responsibility",
+        "meta": "2024 International Conference on IoT, Communication and Automation …, 2024 · 3 sitasi"
+      },
+      {
+        "title": "Pengaruh Penggunaan Model Pembelajaran Cooperative Integrated Reading and Composition (CIRC) Terhadap Ketrampilan Membaca Pemahaman Siswa Kelas IV SDN Batangkaluku Kecamatan …",
+        "meta": "J-CEKI: Jurnal Cendekia Ilmiah 3 (2), 596-606, 2024 · 3 sitasi"
+      },
+      {
+        "title": "Pappaseng As A Reflection Of The Traditions And Culture Of The Bugis Community",
+        "meta": "Proceeding International Seminar Hiski 1, 2023 · 3 sitasi"
+      },
+      {
+        "title": "Pengembangan Media E-Book Berbasis Aplikasi Office Sway pada Bahan Ajar Modul Bahasa Indonesia Kelas X SMA",
+        "meta": "Jurnal Pendidikan dan Pembelajaran 2 (2), 119-131, 2022 · 3 sitasi"
+      },
+      {
+        "title": "Pergeseran Bahasa dalam Komunikasi Masyarakat Desa Ranteangin Kabupaten Luwu Timur",
+        "meta": "Jurnal Konsepsi 10 (4), 354-360, 2022 · 3 sitasi"
+      },
+      {
+        "title": "Pembelajaran Bahasa Daerah di Kelas Multikultur: Masalah dan Penanganannya",
+        "meta": "Prosiding Seminar Nasional Bahasa dan Sastra Kebinekaan dalam Perspektif …, 2022 · 3 sitasi"
+      },
+      {
+        "title": "Pemartabatan Bahasa Indonesia",
+        "meta": "Penerbit UPT UHAMKA Press 1, 97, 2020 · 3 sitasi"
+      },
+      {
+        "title": "Perubahan Sosial Ekonomi Terhadap Eksistensi Batu Akik",
+        "meta": "Equilibrium: Jurnal Pendidikan 3 (2), 2015 · 3 sitasi"
+      },
+      {
+        "title": "Bahasa Indonesia sebagai Penghela Ilmu Pengetahuan dan Wahana Ipteks‖",
+        "meta": "Makalah dalam KBI X 22, 2013 · 3 sitasi"
+      },
+      {
+        "title": "EvaluasiPembelajaran",
+        "meta": "Jogjakarta: University Press, 2010 · 3 sitasi"
+      },
+      {
+        "title": "Buginese Communication Heritage in Educational Contexts: An Overview of Literacy Contributions within the Diaspora",
+        "meta": "Human Sustainability Procedia 5 (2), 71-86, 2025 · 2 sitasi"
+      },
+      {
+        "title": "Eksistensi Komunitas Akar Sosial Di Universitas Muhammadiyah Makassar (Kajian Relasi Kuasa Michel Foucault)",
+        "meta": "Indonesian Journal of Educational Issues 1 (1), 1-8, 2025 · 2 sitasi"
+      },
+      {
+        "title": "PENINGKATAN KEMAMPUAN MEMBACA MELALUI TEKNIK PERMAINAN MENYUSUN KATA PADA PEMBELAJARAN BAHASA INDONESIA SISWA KELAS 1 SD INPRES MARISO II KOTA MAKASSAR",
+        "meta": "Didaktik: Jurnal Ilmiah PGSD STKIP Subang 10 (03), 220-229, 2024 · 2 sitasi"
+      },
+      {
+        "title": "Pendekatan Self Regulated Learning (SRL) dalam Meningkatkan Minat dan Kemampuan Membaca Telaah Bahasa Mahasiswa",
+        "meta": "Cakrawala Indonesia 8 (1), 38-47, 2023 · 2 sitasi"
+      },
+      {
+        "title": "Penerapan Metode Role Playing Untuk Meningkatkan Keterampilan Berbicara Siswa Kelas V SD Inpres Langkowa Kabupaten Gowa",
+        "meta": "JKP: Jurnal Khasanah Pendidikan 1 (3), 288-306, 2023 · 2 sitasi"
+      },
+      {
+        "title": "Repetition markers in junior high school students’ essays",
+        "meta": "EduLite: Journal of English Education, Literature, and Culture 7 (2), 266-278, 2022 · 2 sitasi"
+      },
+      {
+        "title": "Pengembangan Manajemen Usaha dan Keuangan Petani Tambak Bumdes Amananah Mandiri Kabupaten Pangkep",
+        "meta": "Membangun Negeri: Jurnal Pengabdian Kepada Masyarakat 6 (1), 1-8, 2022 · 2 sitasi"
+      },
+      {
+        "title": "PENGARUH MODEL PEMBELAJARAN MID (MEANINGFUL INSTRUCTIONAL DESIGN) BERBANTUAN MEDIA GAMBAR TERHADAP KETERAMPILAN MENULIS CERPENDAN MOTIVASI BELAJAR SISWA PADA PEMBELAJARAN …",
+        "meta": "Primary: Jurnal Pendidikan Guru Sekolah Dasar 11 (1), 98-111, 2022 · 2 sitasi"
+      },
+      {
+        "title": "Keefektifan Permainan Teak Kata Dan Media Video Dalam Meningkatkan Keterampilan Menyimak Siswa Kelas Iv Sdn 26 Sambueja Kabupaten Maros",
+        "meta": "Jurnal Riset dan Inovasi Pembelajaran 1 (3), 154-166, 2021 · 2 sitasi"
+      },
+      {
+        "title": "Pengaruh Minat dan Pengetahuan Teori Terhadap Kompetensi Menulis Bahan Ajar Bahasa Indonesia",
+        "meta": "Jurnal Riset Dan Inovasi Pembelajaran 1 (3), 60-73, 2021 · 2 sitasi"
+      },
+      {
+        "title": "Pengaruh Partisipasi dalam Kegiatan KKG Terhadap Motivasi Mengajar dan Kemampuan Mendesain RPP Bahasa Indonesia Berbasis Keterampilan Abad 21",
+        "meta": "Jurnal Riset Dan Inovasi Pembelajaran 1 (3), 1-13, 2021 · 2 sitasi"
+      },
+      {
+        "title": "Pemberdayaan Masyarakat Kelompok Tani Tambak Udang Melalui Teknologi Kincir Modifikasi Di Desa Bulu Cindea Kabupaten Pangkep",
+        "meta": "Jurnal Aplikasi Dan Inovasi Iptek 2 (2), 96-102, 2021 · 2 sitasi"
+      },
+      {
+        "title": "Teaching Design of face to Face Online with Hypercontent in Education and Training Institutions (LKPD)",
+        "meta": "International Journal of Psychosocial Rehabilitation 24 (05), 208-218, 2020 · 2 sitasi"
+      },
+      {
+        "title": "Keefektifan Teknik Mind Mapping Berbantukan Media Gambar Terhadap Pembelajaran Menulis Paragraf Deskripsi Siswa Kelas IV Sekolah Dasar Kabupaten Pangkep",
+        "meta": "Jurnal Profesi Keguruan 6 (1), 54-63, 2020 · 2 sitasi"
+      },
+      {
+        "title": "Pengaruh Sarana, Iklim Sekolah, dan Motivasi terhadap Peningkatan Minat Baca Siswa Kelas III Sekolah Dasar",
+        "meta": "SEMINAR NASIONAL FKIP Universitas Muslim Maros 1 (1), 1-10, 2019 · 2 sitasi"
+      },
+      {
+        "title": "Pengaruh Teknik Pembelajaran Talking Chips terhadap Keaktifan Berbicara pada Peserta Didik Kelas X MIA 6 SMA Negeri 2 Bantaeng",
+        "meta": "Prosiding Seminar Nasional Pendidikan 1 (1), 2018 · 2 sitasi"
+      },
+      {
+        "title": "Penerapan Bahasa Untuk Tujuan Khusus Dalam Materi Pembelajaran Bahasa Indonesia Di Sekolah Menengah Pariwisata Di Sulawesi Selatan",
+        "meta": "Badan Penerbit UNM, 2014 · 2 sitasi"
+      },
+      {
+        "title": "Apresiasi dan kajian puisi",
+        "meta": "Surabaya: CV. Kartika Mulia, 2011 · 2 sitasi"
+      },
+      {
+        "title": "Professor of Language and Linguistics",
+        "meta": "Faculty of Etiquette · 2 sitasi"
+      },
+      {
+        "title": "Derajad Kemampuan Menulis Puisi Siswa Melalui Pengunaan Media Film Animasi Berbasis Karakter. PT. Nas Media Indonesia, Cetakan1",
+        "meta": "· 2 sitasi"
+      },
+      {
+        "title": "Local Wisdom Integration as a Pedagogical Strategy: Designing Contextual Sociology Materials to Reinforce Social Identity among University Students",
+        "meta": "Asian Journal of Human Services 30 (2), e3002. 1.013, 2026 · 1 sitasi"
+      },
+      {
+        "title": "Peran perguruan tinggi dalam meningkatkan kesejahteraan masyarakat",
+        "meta": "Didaktik: Jurnal Ilmiah PGSD STKIP Subang 11 (01), 228-234, 2025 · 1 sitasi"
+      },
+      {
+        "title": "Pemanfaatan Media Pembelajaran Digital Interaktif Alam Pembelajaran IPA Berbasis Animaker Untuk Meningkatkan Hasil Belajar Siswa Di UPT SPF SMPN 21 Makassar",
+        "meta": "Didaktik: Jurnal Ilmiah PGSD STKIP Subang 10 (3), 623-635, 2024 · 1 sitasi"
+      },
+      {
+        "title": "Pengaruh Model Pembelajaran Round Club Terhadap Keterampilan Berbicara Siswa Kelas IV SDN Inpres 162 Kampung Beru Kabupaten Takalar",
+        "meta": "BLAZE: Jurnal Bahasa dan Sastra dalam Pendidikan Linguistik dan Pengembangan …, 2024 · 1 sitasi"
+      },
+      {
+        "title": "ANALISIS NILAI-NILAI KESANTUNAN BERBAHASA DALAM FILM “BUMI MANUSIA” KARYA HANUNG BRAMANTYO DAN RELEVANSINYA TERHADAP NILAI-NILAI PENDIDIKAN KARAKTER DI SEKOLAH: Penelitian …",
+        "meta": "Pendas: Jurnal Ilmiah Pendidikan Dasar 9 (2), 6335-6347, 2024 · 1 sitasi"
+      },
+      {
+        "title": "PENGARUH PENERAPAN FLIPBOOK SEBAGAI MEDIA PEMBELAJARAN TERHADAP HASIL BELAJAR SISWA PADA MATA PELAJARAN IPA KELAS VIII SMP",
+        "meta": "Pendas: Jurnal Ilmiah Pendidikan Dasar 9 (2), 2104-2114, 2024 · 1 sitasi"
+      },
+      {
+        "title": "Penerapan Model Pembelajaran Complete Sentence Dalam Meningkatkan Keterampilan Menulis Paragraf Pada Mata Pelajaran Bahasa Indonesia",
+        "meta": "BLAZE: Jurnal Bahasa Dan Sastra Dalam Pendidikan Linguistik Dan Pengembangan …, 2024 · 1 sitasi"
+      },
+      {
+        "title": "Perkembangan Ragam Bahasa Prokem Bugis Makassar",
+        "meta": "Kongres Internasional Masyarakat Linguistik Indonesia 2023, 14-24, 2023 · 1 sitasi"
+      },
+      {
+        "title": "The Effect of Using Quantum Teaching and Cooperative Integrated Reading and Composition Methods on the Ability to Write Descriptions of Elementary School Students",
+        "meta": "Pedagogik Journal of Islamic Elementary School, 11-26, 2023 · 1 sitasi"
+      },
+      {
+        "title": "Studying Indonesian-Speaking Politeness for Class XI Students at SMK Negeri Tapango, Polman Regency",
+        "meta": "RETORIKA: Jurnal Ilmu Bahasa 9 (1), 75-83, 2023 · 1 sitasi"
+      },
+      {
+        "title": "Utilization of Reading Corners in the School Literacy Movement at the Mukhlisiin Gowa Integrated Islamic Elementary School",
+        "meta": "Buana Pendidikan: Jurnal Fakultas Keguruan dan Ilmu Pendidikan Unipa …, 2023 · 1 sitasi"
+      },
+      {
+        "title": "Teacher Performance Analysis: Planning, Implementation, Evaluation, Communication, and Competency Development",
+        "meta": "IDEAS: Journal on English Language Teaching and Learning, Linguistics and …, 2023 · 1 sitasi"
+      },
+      {
+        "title": "Pengaruh Metode Outdoor Learning Terhadap Kemampuan Menulis Karangan Deskripsi Siswa Kelas IV SDI Sorobaya Kabupaten Gowa",
+        "meta": "Jurnal Riset Sosial Humaniora dan Pendidikan 2 (4), 124-136, 2023 · 1 sitasi"
+      },
+      {
+        "title": "Minat dan Motivasi Belajar Keterampilan Berbahasa Siswa Attention Deficit Hyperactivity Disolder (ADHD) Kelas XII Mipa 4 MAN 2 Kota Makassar (Studi Kasus)",
+        "meta": "Jurnal Onoma: Pendidikan, Bahasa, dan Sastra 8 (2), 617-635, 2022 · 1 sitasi"
+      },
+      {
+        "title": "Analisis Perangkat Pembelajaran Membaca Permulaan Di Kabupaten Gowa",
+        "meta": "Jurnal Pajar (Pendidikan Dan Pengajaran) 6 (2), 437-445, 2022 · 1 sitasi"
+      },
+      {
+        "title": "Pengaruh Model Pembelajaran Active Learning Berbantuan Media Flash Card Terhadap Keterampilan Berbicara Murid Kelas Iv Sd",
+        "meta": "PROSIDING SEMINAR NASIONAL PENDIDIKAN DASAR, 2022 · 1 sitasi"
+      },
+      {
+        "title": "Pemberdayaan Masyarakat dalam Instalasi Air Bersih di Desa Bulu Cindea Kabupaten Pangkep",
+        "meta": "2021 · 1 sitasi"
+      },
+      {
+        "title": "Tingkat keterbacaan kompetensi dasar bahasa Indonesia pada kurikulum 2013 dan korelasinya dengan kemampuan mengajar bagi guru SDN 1 Pakalu I Kabupaten Maros",
+        "meta": "Jurnal Riset dan Inovasi Pembelajaran 1 (3), 14-24, 2021 · 1 sitasi"
+      },
+      {
+        "title": "Kekerabatan bahasa Bugis Wajo Indonesia dan bahasa Bugis Pontian Malaysia: Kajian Leksikostatistik",
+        "meta": "Badan Pengembangan dan Pembinaan Bahasa, 2018 · 1 sitasi"
+      },
+      {
+        "title": "Model Bimbingan Karier Melalui Pendekatan Link And Match dengan Disnakertrans untuk Mewujudkan Masa Tunggu Memperoleh Pekerjaan Pendek",
+        "meta": "Jurnal FKIP UNS, 2014 · 1 sitasi"
+      },
+      {
+        "title": "GAYA BAHASA RETORIS DALAM NASKAH POLITIK: KAJIAN BUKU'PARADOKS INDONESIA DAN SOLUSINYA'KARYA PRABOWO SUBIANTO",
+        "meta": "Cakrawala Indonesia 11 (1), 113-126, 2026"
+      },
+      {
+        "title": "Linking Words, Linking Minds: Conjunctions as Cognitive Markers of Critical Thinking in Indonesian Junior-High Essays.",
+        "meta": "International Journal of Humanities Education 24 (1), 71, 2026"
+      },
+      {
+        "title": "Validated Folklore Materials for Elementary Reading Interest and Literacy: Bahan Ajar Cerita Rakyat Tervalidasi untuk Minat dan Literasi Membaca",
+        "meta": "Academia Open 11 (1), 10.21070/acopen. 11.2026. 14285-10.21070/acopen. 11 …, 2026"
+      },
+      {
+        "title": "PENGUATAN LITERASI RISET KUALITATIF MELALUI PELATIHAN STRUKTURISASI IDE BAGI MAHASISWA PASCASARJANA",
+        "meta": "Jurnal Sulapa Eppa' 2 (1), 35-44, 2026"
+      },
+      {
+        "title": "PENGARUH STRATEGI KWL (KNOW, WANT TO KNOW, LEARNED) TERHADAP KETERAMPILAN MEMBACA PEMAHAMAN SISWA KELAS V SDN 128 HARAPAN KECAMATAN MAPPEDECENG KABUPATEN LUWU UTARA",
+        "meta": "Pendas: Jurnal Ilmiah Pendidikan Dasar 11 (02), 211-222, 2026"
+      },
+      {
+        "title": "Pengaruh Penggunaan Metode Show and Tell Terhadap Keterampilan Berbicara Bahasa Indonesia Siswa Kelas II SDN 183 Rabu Kabupaten Enrekang",
+        "meta": "Pendas: Jurnal Ilmiah Pendidikan Dasar 11 (02), 289-294, 2026"
+      },
+      {
+        "title": "PENGARUH MODEL PEMBELAJARAN GIVING QUESTION AND GETTING ANSWER TERHADAP KEMAMPUAN MENALAAH STRUKTUR TEKS NARASI SISWA PADA MATA PELAJARAN BAHASA INDONESIA KELAS V SD INPRES …",
+        "meta": "EDU RESEARCH 7 (1), 1542-1553, 2026"
+      },
+      {
+        "title": "THE ROLE OF FAMILY IN THE HERITAGE LANGUAGE MAINTENANCE (HLM) OF BUGINESE LANGUAGE",
+        "meta": "KLASIKAL: JOURNAL OF EDUCATION, LANGUAGE TEACHING AND SCIENCE 8 (1), 373-383, 2026"
+      },
+      {
+        "title": "SILENCE SPEAKS: THE POLITENESS OF BEING SILENT IN REFUSAL AMONG BUGINESE PEOPLE",
+        "meta": "SIGEH ELT: Journal of Literature and Linguistics 6 (1), 771-788, 2026"
+      },
+      {
+        "title": "PENERAPAN MODEL PEMBELAJARAN PROBLEM BASED LEARNING UNTUK MENINGKATKAN KETERAMPILAN BERBICARA SISWA KELAS V SD NEGERI 39 PATTONGKO KABUPATEN SINJAI",
+        "meta": "Pendas: Jurnal Ilmiah Pendidikan Dasar 11 (01), 99-114, 2026"
+      },
+      {
+        "title": "REVITALISING BUGIS IDENTITY AMONG MALAYSIAN YOUTH THROUGH KOLB’S EXPERIENTAL LEARNING FRAMEWORK",
+        "meta": "Quantum Journal of Social Sciences and Humanities 7 (1), 434-458, 2026"
+      },
+      {
+        "title": "PENGARUH MODEL PEMBELAJARAN KOOPERATIF TIPE JIGSAW TERHADAP PRESTASI BELAJAR BAHASA INDONESIA PADA SISWA KELAS IV UPT SDN 2 TURATEA KABUPATEN JENEPONTO",
+        "meta": "Pendas: Jurnal Ilmiah Pendidikan Dasar 11 (01), 69-81, 2026"
+      },
+      {
+        "title": "KEEFEKTIFAN MEDIA FILM ANIMASI TERHADAP KETERAMPILAN MENULIS CERITA SISWA KELAS V MADRASAH IBTIDAIYAH DARUL ISTIQAMAH PUCE’E KABUPATEN SINJAI",
+        "meta": "Didaktik: Jurnal Ilmiah PGSD STKIP Subang 12 (01), 35-49, 2026"
+      },
+      {
+        "title": "ANALISIS KETERAMPILAN MENULIS KARANGAN NARASI PADA SISWA KELAS V SD INPRES MALLENGKERI BERTINGKAT MAKASSAR",
+        "meta": "Didaktik: Jurnal Ilmiah PGSD STKIP Subang 12 (01), 155-164, 2026"
+      },
+      {
+        "title": "Scripts and Stories: AI's Role in Modern Creative Writing",
+        "meta": "Role of AI in Producing, Evaluating, and Interpreting Literary Materials …, 2026"
+      },
+      {
+        "title": "P PENGARUH MEDIA INTERAKTIF WORDWALL TERHADAP HASIL BELAJAR BAHASA INDONESIA SISWA KELAS V MADRASAH IBTIDAIYAH AL-AMIN PA’BATANGAN KABUPATEN TAKALAR",
+        "meta": "Didaktik: Jurnal Ilmiah PGSD STKIP Subang 11 (04), 366-372, 2025"
+      },
+      {
+        "title": "Hacking Character Values in the Pappaseng to Riolo Language for the Bugis Tribe Community in Sinjai Regency",
+        "meta": "Proceeding of International Joint Conference on UNESA 3 (1), 610-616, 2025"
+      },
+      {
+        "title": "Wujud Ikon, Indeks, dan Simbol sebagai Penanda Nilai Pendidikan Karakter dalam Novel Jenderal Kambing Karya Khrisna Pabichara",
+        "meta": "Jurnal Onoma: Pendidikan, Bahasa, dan Sastra 11 (4), 4935-4944, 2025"
+      },
+      {
+        "title": "ANALISIS KESULITAN SISWA DALAM MENULIS PARAGRAF DESKRIPSI DALAM MATA PELAJARAN BAHASA INDONESIA KELAS IV SD NEGERI NO. 15 JAWI-JAWI KABUPATEN MAROS",
+        "meta": "Didaktik: Jurnal Ilmiah PGSD STKIP Subang 11 (03), 294-304, 2025"
+      },
+      {
+        "title": "PENGARUH PENGGUNAAN MEDIA GAMBAR TERHADAP KEMAMPUAN MENYUSUN KALIMAT BAHASA INDONESIA SISWA KELAS III SD INPRES PALOMPONG KECAMATAN BAJENG KABUPATEN GOWA",
+        "meta": "Didaktik: Jurnal Ilmiah PGSD STKIP Subang 11 (02), 325-341, 2025"
+      },
+      {
+        "title": "Analisis Penggunaan Media Flashcard dalam Meningkatkan Motivasi Membaca Permulaan Pada Pelajaran Bahasa Indonesia Siswa Kelas I UPT SD Negeri 24 Binamu Kabupaten Jeneponto.",
+        "meta": "Jurnal Riset Evaluasi Pendidikan 2 (2), 473-479, 2025"
+      },
+      {
+        "title": "PENINGKATAN KETERAMPILAN MEMBACA INTENSIF MELALUI STRATEGI DIRECTED READING THINKING ACTIVITY (DRTA) BERBANTUAN GAMBAR SERI SISWA KELAS III A SDN SUNGGUMINASA V",
+        "meta": "Didaktik: Jurnal Ilmiah PGSD STKIP Subang 10 (04), 231-242, 2024"
+      },
+      {
+        "title": "TEKS ARU TUJO-TUJONA POSSI TANA NA TIRO KEC. BONTOTIRO KAB. BULUKUMBA DALAM TINJAUAN HERMENEUTIKA (HANS GEORG GADAMER): TEXT ARU TUJO-TUJONA POSSI TANA NA TIRO KEC. BONTOTIRO …",
+        "meta": "AUFKLARUNG: Jurnal Kajian Bahasa, Sastra Indonesia, dan Pembelajarannya 4 (1 …, 2024"
+      },
+      {
+        "title": "TINDAK BAHASA INTERPERSONAL DALAM WACANA INTERAKSI KELAS DI SMP NEGERI 2 POLONGBANGKENG UTARA; ANALISIS LINGUISTIK SISTEMIK FUNGSIONAL",
+        "meta": "Pendas: Jurnal Ilmiah Pendidikan Dasar 9 (04), 313-325, 2024"
+      },
+      {
+        "title": "LEKSIKON BAHASA REMAJA MILENIAL PADA PENGGUNA SOSIAL MEDIA INSTAGRAM (KAJIAN ETNOLINGUISTIK)",
+        "meta": "Pendas: Jurnal Ilmiah Pendidikan Dasar 9 (3), 273-284, 2024"
+      },
+      {
+        "title": "ANALISIS DAMPAK POSITIF MEDIA SMART HAFIDZ PADA PEMEROLEHAN BAHASA ANAK USIA 2 TAHUN 6 BULAN (STUDI KASUS PADA NIZAM ABQORY AKHYAR)",
+        "meta": "Pendas: Jurnal Ilmiah Pendidikan Dasar 9 (3), 57-66, 2024"
+      },
+      {
+        "title": "PENGARUH PENGGUNAAN MEDIA KONKRET TERHADAP HASIL BELAJAR SISWA PADA PEMBELAJARAN BAHASA INDONESIA KELAS I SD INPRES BAROMBONG 2 KOTA MAKASSAR",
+        "meta": "Jurnal Genta Mulia 15 (2), 140-145, 2024"
+      },
+      {
+        "title": "THE INFLUENCE OF A REVIEW TASK-BASED LITERACY LEARNING APPROACH ON STUDENTS'READING COMPREHENSION INTEREST AND LEARNING OUTCOMES",
+        "meta": "JURNAL PENDIDIKAN GLASSER 7 (2), 431-438, 2023"
+      },
+      {
+        "title": "Pendampingan Pemanfaatan Tanaman Toga terhadap Pencegahan Covid-19 pada Masyarakat Kel. Jagong Kab. Pangkajene",
+        "meta": "Jurnal Kreativitas Pengabdian Kepada Masyarakat (PKM) 6 (3), 1120-1127, 2023"
+      },
+      {
+        "title": "Ati Macinnong: Wajo Dalam Ragam Perspektif",
+        "meta": "Pemda Wajo, 2023"
+      },
+      {
+        "title": "Application Statement Analysis Conversation of the Murder Case at the Makassar District Court (Forensic Linguistics)",
+        "meta": "RETORIKA: Jurnal Ilmu Bahasa 8 (2), 110-118, 2022"
+      },
+      {
+        "title": "Pelatihan Penyediaan Pakan Simbiotik di Desa Bulu Cindea, Kabupaten Pangkep Provinsi Sulawesi Selatan",
+        "meta": "Suluah Bendang: Jurnal Ilmiah Pengabdian Kepada Masyarakat 22 (2), 345-350, 2022"
+      },
+      {
+        "title": "The Influene of Creative Problem Solving Learning Model of the Skills and Interest in Writing Pantungs of Class V Students SD Inpress Samata",
+        "meta": "2022"
+      },
+      {
+        "title": "Facebook Social Media: How does it Affect First-Year Students' Description Writing Skills?",
+        "meta": "Al-Islah  Jurnal Pendidikan 14 (3), 1-10, 2022"
+      },
+      {
+        "title": "Persepsi Masyarakat Mandar Terhadap Pemakaian Bentuk Sapaan dalam Kekerabatan Puang dan Daeng",
+        "meta": "Briliant: Jurnal Riset dan Konseptual 6 (4), 923-932, 2021"
+      },
+      {
+        "title": "PROGRAM PENGABDIAN MASYARAKAT (PPM) HIPERMAWA KOMISARIAT TANASITOLO KECAMATAN TANASITOLO KABUPATEN WAJO",
+        "meta": "Jurnal Pengabdian Kepada Masyarakat MEMBANGUN NEGERI 5 (2), 404-411, 2021"
+      },
+      {
+        "title": "PENGEMBANGAN UMKM DAN INDUSTRI KREATIF MELALUI KULIAH KERJA NYATA MUHAMMADIYAH AISYAH (KKN-MAs) DI KABUPATEN LOMBOK UTARA",
+        "meta": "Jurnal Pengabdian Kepada Masyarakat MEMBANGUN NEGERI 5 (2), 10-18, 2021"
+      },
+      {
+        "title": "PENGARUH KEMAMPUAN MEMBACA DAN MENULIS TERHADAP KEMAMPUAN MENYELESAIKAN SOAL CERITA MATEMATIKA",
+        "meta": "2021"
+      },
+      {
+        "title": "Guru dan Literasi",
+        "meta": "https://drive.google.com/file/d/1kksoJoG7MuA48R4-ambLA2QeW1e02zlJ/view?usp …, 2021"
+      },
+      {
+        "title": "PENGARUH KOMPETENSI DAN TUGAS FUNGSIONAL TERHADAP KINERJA PENGAWAS PENDIDIKAN KABUPATEN WAJO",
+        "meta": "COMPETITIVENESS 9 (2), 200-210, 2020"
+      },
+      {
+        "title": "Teacher certification education: A review competence of Indonesian language and literature",
+        "meta": "Utopía y Praxis Latinoamericana 25 (6), 303-313, 2020"
+      },
+      {
+        "title": "Teacher certification education: A review competence of Indonesian language and literature",
+        "meta": "Utopía y Praxis Latinoamericana. Revista Internacional de Filosofía …, 2020"
+      },
+      {
+        "title": "Teacher Orientation of Post Competence Mapping in 21st Century Teaching Systems",
+        "meta": "International Journal of Innovation, Creativity and Change. 12 (8), 468-484, 2020"
+      },
+      {
+        "title": "Teaching Design of face to Face Online with Hypercontent in Education and Training Institutions (LKPD)",
+        "meta": "International Journal of Psychosocial Rehabilitation 24 (5), 208-218, 2020"
+      },
+      {
+        "title": "THE COMPETENCEOF INDONESIAN LANGUAGE AND LITERATURE TEACHERS THROUGH NETWORK LEARNING IN TWO TEACHER PROFESSIONAL EDUCATION MODES",
+        "meta": "International Journal of Advanced Science and Technology 29 (4), 1783-1794, 2020"
+      },
+      {
+        "title": "Surianto1, Andi Sukri Syamsuri2, Muhammad Akhir3",
+        "meta": "2020"
+      },
+      {
+        "title": "Pengaruh Teknik Pembelajaran Talking Chips Terhadap Keaktifan Berbicara Pada Peserta Didik Kelas X Mia 6 SMA Negeri 2 Bantaeng",
+        "meta": "Seminar Nasional Pendidikan 1 (1), https://jurnal.umj.ac.id/index.php/SNP/a, 2019"
+      },
+      {
+        "title": "Pemartabatan Bahasa-Bahasa Daerah di Sulawesi Selatan dalam Pelayanan Publik",
+        "meta": "Kongres International III Bahasa-Bahasa Daerah Sulawesi Selatan 1 (1), https …, 2018"
+      },
+      {
+        "title": "Kemampuan Menulis Puisi Baru dalam Bahasa Makassar Siswa Kelas VII SMP Negeri 2 Bontonompo Selatan Kabupaten Gowa",
+        "meta": "Seminar Nasional Bahasa dan Sastra: Mengukuhkan Fungsi Bahasa dan Sastra …, 2018"
+      },
+      {
+        "title": "Bahasa Indonesia",
+        "meta": "IN Patent 000,109,099, 2018"
+      },
+      {
+        "title": "Pembelajaran Kelas Rangkap",
+        "meta": "IN Patent 000,138,003, 2018"
+      },
+      {
+        "title": "Pencendekiaan Bahasa Indonesia dari Zaman Sumpah Pemuda Hingga Pasca Orde Reformasi (Hak Cipta)",
+        "meta": "2018"
+      },
+      {
+        "title": "Tuntunan dan Tantangan dalam Pembelajaran Bahasa dan sastra Indonesia",
+        "meta": "Seminar Nasional Program Studi Pendidikan Basa dan Sastra Indonesia 1 (1), 40, 2017"
+      },
+      {
+        "title": "Human Existence in The collection of poetry anwar works: Study of Semiotic",
+        "meta": "Internasional Seminar on Education 1 (1), 438-440, 2016"
+      },
+      {
+        "title": "Higher Education Institutional and Social Trasformation Of Students In Muhammadiyah University Of Makassar",
+        "meta": "Research On Educational Studies 2 (2), 408, 2016"
+      },
+      {
+        "title": "IMPROVING THE SPEAKING SKILL THROUGH SOCIO DRAMA METHOD AT THE FIFTH GRADE STUDENTS OF EXCELLENT ELEMENTARY SCHOOL OF BONTOMARANNU DISTRICT OF GOWA REGENCY",
+        "meta": "The First Internasional Conference on educational studies 1 (1), 7, 2015"
+      },
+      {
+        "title": "Kosakata Bahasa Indonesia Masa Kini dan Mendatang",
+        "meta": "Simposium Internasional 1 (1), 1-20, 2014"
+      },
+      {
+        "title": "Kosa Kata Bahasa Indonesia Masa Kini dan Mendatang",
+        "meta": "Simposium Internasional Bahasa, Sstra, & Budaya Indonesia dalam Membangun …, 2014"
+      },
+      {
+        "title": "Pencendikiaan Bahasa Indonesia dari Zaman Sumpah Pemuda Hingga Orde Reformasi",
+        "meta": "Alauddin University Press 1, 244, 2014"
+      },
+      {
+        "title": "Peningkatan Keterampilan Menulis Puisi Siswa Kelas X SMA Negeri 33 Bulukumba Kabupaten Bulukumba Melalui Strategi Pembelajaran Sugwstopedia",
+        "meta": "International Conference on Current Issues in Primary Education 1 (1), 46, 2014"
+      },
+      {
+        "title": "Keterampilan menyimak dan Rancangan Pembelajarannya",
+        "meta": "IN Patent 000,109,330, 2013"
+      },
+      {
+        "title": "Pelestarian Bahasa Bugis Melalui Dunia Pendidikan",
+        "meta": "Kongres Bahasa-Bahasa Daerah Sulawesi Selatan VI 2012 6 (6), 1-14, 2012"
+      },
+      {
+        "title": "Pencendekiawanan Bahasa Indonesia dari Zaman Sumpah Pemuda hingga Pasca Orde Baru",
+        "meta": "IN Patent 000,109,331, 2012"
+      },
+      {
+        "title": "Teori Dan Apresiasi Sastra Anak",
+        "meta": "Bahan Ajar Perkuliahan 1, 1-70, 2009"
+      },
+      {
+        "title": "Bahasa Indonesia",
+        "meta": "Makassar: Fakultas Ilmu Pendidikan. Universitas Negeri Makassar, 2007"
+      },
+      {
+        "title": "Understanding Multilingualism and Code-Switching Among English Department Students Across Home, Campus, and Social Media",
+        "meta": ""
+      },
+      {
+        "title": "PROCEEDING INTERNATIONAL SEMINAR HISKI",
+        "meta": ""
+      },
+      {
+        "title": "Andi Sukri Syamsuri",
+        "meta": ""
+      },
+      {
+        "title": "dkk. 2012. Pedoman Penulisan Skripsi. Makassar",
+        "meta": "Panitia Press Unismuh Makassar"
+      },
+      {
+        "title": "ISSN 1798-4769 Volume 8, Number 5, September 2017",
+        "meta": ""
+      },
+      {
+        "title": "Kemampuan Penggunaan Struktur Kalimat Terhadap Keterampilan Menulis Paragraf Deskripsi Siswa Kelas VII SMPN 3 Sungguminasa Kabupaten Gowa",
+        "meta": "Seminar Nasional LP2M UNM 2 (1)"
+      },
+      {
+        "title": "dkk. 2012",
+        "meta": "Pedoman Penulisan Skripsi"
+      }
+    ]
+  },
+  "writings": {
+    "tag": "05 — Ruang Tulisan",
+    "headingHtml": "Pandangan, opini, dan gagasan",
+    "sub": "Catatan dan pemikiran tentang bahasa, pendidikan, budaya, dan kebangsaan.",
+    "viewAll": "Lihat semua tulisan →"
+  },
+  "contact": {
+    "tag": "06 — Kontak",
+    "headingHtml": "Mari <em>terhubung</em>",
+    "sub": "Terbuka untuk kolaborasi akademik, undangan menulis, dan diskusi gagasan.",
+    "email": "andhies@unismuh.ac.id",
+    "whatsappNumber": "",
+    "location": "Makassar, Sulawesi Selatan, Indonesia",
+    "socials": [
+      {
+        "label": "Google Scholar",
+        "text": "GS",
+        "url": "https://scholar.google.co.id/citations?user=Inygb3UAAAAJ&hl=id&authuser=1&oi=ao"
+      },
+      {
+        "label": "SINTA",
+        "text": "ST",
+        "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/6013084"
+      },
+      {
+        "label": "Scopus",
+        "text": "SC",
+        "url": "https://www.scopus.com/pages/authors/57216282015"
+      }
+    ]
+  },
+  "footer": "Prof. Dr. H. Andi Sukri Syamsuri, S.Pd., M.Hum. · Guru Besar Ilmu Linguistik"
+}

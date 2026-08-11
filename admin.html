@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="noindex" />
+  <title>Admin — Profil Prof. Andi Sukri Syamsuri</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="admin.css" />
+</head>
+<body>
+  <!-- Login -->
+  <div class="login-wrap" id="loginView">
+    <form class="login-card" id="loginForm">
+      <div class="login-badge">AS</div>
+      <h1>Panel Admin</h1>
+      <p>Masuk untuk mengelola profil dan tulisan.</p>
+      <input type="password" id="password" placeholder="Password" autocomplete="current-password" required />
+      <button type="submit" class="btn btn-primary btn-full">Masuk</button>
+      <p class="form-note" id="loginNote" style="color:var(--err);font-size:.85rem;margin-top:12px;min-height:1em"></p>
+    </form>
+  </div>
+
+  <!-- Dashboard -->
+  <div class="shell" id="dashView" hidden>
+    <aside class="side">
+      <div class="side-brand">
+        <div class="side-badge" id="sideBadge">AS</div>
+        <div><b>Admin</b><span>Andi Sukri Syamsuri</span></div>
+      </div>
+      <nav class="side-nav" id="sideNav">
+        <button data-panel="profil" class="active">📝 Profil</button>
+        <button data-panel="tulisan">🖋️ Tulisan</button>
+        <button data-panel="keamanan">🔒 Keamanan</button>
+      </nav>
+      <div class="side-foot">
+        <a class="btn btn-ghost btn-full" href="index.html" target="_blank">↗ Lihat Situs</a>
+        <button class="btn btn-danger btn-full" id="logoutBtn">Keluar</button>
+      </div>
+    </aside>
+
+    <main class="main">
+      <!-- Panel: Profil -->
+      <section class="panel active" id="panel-profil">
+        <div class="topbar">
+          <h2>Konten Profil</h2>
+          <div class="actions">
+            <button class="btn btn-ghost" id="scholarBtn">🔄 Sinkron Scholar</button>
+            <button class="btn btn-primary" id="saveContentBtn">💾 Simpan Profil</button>
+          </div>
+        </div>
+        <div id="contentForm"></div>
+      </section>
+
+      <!-- Panel: Tulisan -->
+      <section class="panel" id="panel-tulisan">
+        <div class="topbar">
+          <h2>Ruang Tulisan</h2>
+          <div class="actions">
+            <button class="btn btn-primary" id="newArticleBtn">＋ Tulisan Baru</button>
+          </div>
+        </div>
+        <div class="art-list" id="artList"></div>
+      </section>
+
+      <!-- Panel: Keamanan -->
+      <section class="panel" id="panel-keamanan">
+        <div class="topbar"><h2>Keamanan</h2></div>
+        <div class="group" style="max-width:480px">
+          <h3>Ganti Password</h3>
+          <p class="group-desc">Minimal 6 karakter. Gunakan password yang kuat.</p>
+          <div class="fld"><label>Password Lama</label><input type="password" id="curPass" /></div>
+          <div class="fld"><label>Password Baru</label><input type="password" id="newPass" /></div>
+          <div class="fld"><label>Ulangi Password Baru</label><input type="password" id="newPass2" /></div>
+          <button class="btn btn-primary" id="changePassBtn">Perbarui Password</button>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <!-- Article editor modal -->
+  <div class="modal" id="artModal">
+    <div class="modal-card">
+      <div class="modal-head">
+        <h3 id="artModalTitle">Tulisan Baru</h3>
+        <button class="icon-btn" id="artClose" title="Tutup">✕</button>
+      </div>
+      <div class="modal-body">
+        <input type="hidden" id="artId" />
+        <div class="fld"><label>Judul</label><input type="text" id="artTitle" placeholder="Judul tulisan" /></div>
+        <div class="row2">
+          <div class="fld"><label>Kategori</label><input type="text" id="artCategory" placeholder="Opini, Pendidikan, Bahasa…" list="catList" />
+            <datalist id="catList"><option>Opini</option><option>Pendidikan</option><option>Bahasa</option><option>Budaya</option><option>Kebangsaan</option><option>Esai</option></datalist>
+          </div>
+          <div class="fld"><label>Tanggal</label><input type="text" id="artDate" placeholder="YYYY-MM-DD" /></div>
+        </div>
+        <div class="fld"><label>Ringkasan (excerpt)</label><textarea id="artExcerpt" placeholder="Ringkasan singkat untuk kartu & pratinjau"></textarea></div>
+        <div class="fld">
+          <label>Gambar Sampul (opsional)</label>
+          <div class="photo-field">
+            <img class="photo-preview" id="artCoverPrev" alt="" />
+            <div>
+              <input type="file" id="artCoverFile" accept="image/*" />
+              <div class="hint">Maks 10MB. Kosongkan bila tidak pakai sampul.</div>
+              <button type="button" class="btn btn-ghost btn-sm" id="artCoverClear" style="margin-top:6px">Hapus Sampul</button>
+            </div>
+          </div>
+          <input type="hidden" id="artCover" />
+        </div>
+        <div class="fld">
+          <label>Isi Tulisan</label>
+          <div id="artBodyTools"></div>
+          <div class="rich tall" id="artBody" contenteditable="true"></div>
+        </div>
+      </div>
+      <div class="modal-foot">
+        <label class="switch"><input type="checkbox" id="artPublished" checked /> Terbitkan</label>
+        <div style="display:flex;gap:10px">
+          <button class="btn btn-ghost" id="artCancel">Batal</button>
+          <button class="btn btn-primary" id="artSave">💾 Simpan Tulisan</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="toast" id="toast"></div>
+  <script src="admin.js"></script>
+</body>
+</html>

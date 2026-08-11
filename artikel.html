@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Tulisan oleh Prof. Dr. H. Andi Sukri Syamsuri." />
+  <title>Tulisan — Prof. Dr. H. Andi Sukri Syamsuri</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,500;1,9..144,600&family=Inter:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="scroll-progress" id="scrollProgress"></div>
+
+  <header class="navbar scrolled" id="navbar">
+    <div class="container nav-inner">
+      <a href="index.html" class="brand">
+        <span class="brand-badge">AS</span>
+        <span class="brand-name">Andi Sukri Syamsuri<small>Guru Besar</small></span>
+      </a>
+      <nav class="nav-links" id="navLinks">
+        <div class="nav-photo">
+          <img src="uploads/andis.jpg" alt="Prof. Andi Sukri Syamsuri">
+          <div><b>Andi Sukri Syamsuri</b><br><span>Guru Besar Ilmu Linguistik</span></div>
+        </div>
+        <a href="index.html#about">Tentang</a>
+        <a href="index.html#works">Karya</a>
+        <a href="tulisan.html">Tulisan</a>
+        <a href="index.html#contact" class="nav-cta">Kontak</a>
+      </nav>
+      <button class="nav-toggle" id="navToggle" aria-label="Buka menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <article class="reader">
+    <div class="container">
+      <a class="reader-back" href="tulisan.html">← Kembali ke daftar tulisan</a>
+      <div id="readerRoot"></div>
+    </div>
+  </article>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <p>© <span id="year"></span> Prof. Dr. H. Andi Sukri Syamsuri, S.Pd., M.Hum.</p>
+      <a href="tulisan.html" class="to-top">Tulisan lainnya →</a>
+    </div>
+  </footer>
+
+  <script src="artikel.js"></script>
+</body>
+</html>

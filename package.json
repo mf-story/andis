@@ -1,0 +1,14 @@
+{
+  "name": "profil-andi-sukri-syamsuri",
+  "version": "1.0.0",
+  "description": "Situs profil akademik dan ruang tulisan Prof. Dr. H. Andi Sukri Syamsuri, S.Pd., M.Hum.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "private": true,
+  "license": "UNLICENSED"
+}

@@ -1,0 +1,25 @@
+# Node
+node_modules/
+
+# Konfigurasi rahasia (hash password admin) — jangan disebar
+admin.config.json
+data/admin.config.json
+
+# Berkas unggahan: abaikan semua KECUALI foto profil bawaan (untuk seed di Railway)
+uploads/*
+!uploads/andis.jpg
+
+# Berkas sumber pribadi (CV, foto asli beresolusi besar) — jangan di-deploy
+*.pdf
+*.docx
+*.tmp.docx
+DSC00202.jpg
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Dump teks CV (berisi data pribadi)
+cv_dump.txt
+*_dump.txt
