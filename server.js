@@ -320,6 +320,16 @@ const server = http.createServer(async (req, res) => {
     }
   }
 
+  // ---- API: diagnostik penyimpanan (untuk memastikan Volume aktif) ----
+  if (url === "/api/storage" && req.method === "GET") {
+    return sendJson(res, 200, {
+      persistent: DATA_DIR !== SEED_DIR,
+      dataDir: DATA_DIR,
+      envDataDir: process.env.DATA_DIR || null,
+      envUploadsDir: process.env.UPLOADS_DIR || null,
+    });
+  }
+
   // ---- API: konten profil ----
   if (url === "/api/content" && req.method === "GET") {
     const data = fs.readFileSync(CONTENT_FILE, "utf8");
