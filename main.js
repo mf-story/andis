@@ -85,9 +85,10 @@
       const img = h.avatarImage
         ? `<img src="${esc(h.avatarImage)}" alt="Foto Prof. Andi Sukri Syamsuri">`
         : `<span class="portrait-initials">${esc(initials((CONTENT.brand && CONTENT.brand.name) || "AS"))}</span>`;
+      const quote = h.quote == null ? "Bahasa adalah cermin peradaban." : h.quote;
       visual.innerHTML = `
         <div class="portrait-frame">${img}</div>
-        <div class="hero-quote">“Bahasa adalah cermin peradaban.”</div>`;
+        ${quote ? `<div class="hero-quote">“${esc(quote)}”</div>` : ""}`;
     }
   }
 

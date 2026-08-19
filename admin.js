@@ -124,6 +124,7 @@ const SCHEMA = [
     { key: "btnGhost", type: "text", label: "Tombol kedua (teks)" },
     { key: "btnGhostHref", type: "select", label: "Tombol kedua menuju", options: HREF_OPTS },
     { key: "avatarImage", type: "photo", label: "Foto Profil" },
+    { key: "quote", type: "text", label: "Kutipan di bawah foto", def: "Bahasa adalah cermin peradaban." },
     { key: "stats", type: "list", label: "Statistik", item: [
       { key: "count", type: "number", label: "Angka" },
       { key: "label", type: "text", label: "Label" },
@@ -249,7 +250,7 @@ function buildField(field, value) {
   if (field.type === "list-rich") return listRichField(field, value || []);
   if (field.type === "list") return listObjectField(field, value || []);
   // text / number / url
-  const input = el("input", { type: field.type === "number" ? "number" : field.type === "url" ? "url" : "text", value: value == null ? "" : value });
+  const input = el("input", { type: field.type === "number" ? "number" : field.type === "url" ? "url" : "text", value: value == null ? (field.def || "") : value });
   return { el: fld(field.label, input), get: () => (field.type === "number" ? Number(input.value) || 0 : input.value) };
 }
 
@@ -340,6 +341,7 @@ async function saveContent() {
     const data = collectContent();
     await api("/api/content", { method: "POST", body: JSON.stringify(data) });
     CONTENT = data;
+    applySideBadge();
     toast("Profil tersimpan ✓");
   } catch (e) { toast(e.message, "err"); }
 }
@@ -457,6 +459,8 @@ function applySideBadge() {
   const badge = $("#sideBadge");
   if (photo) badge.innerHTML = `<img src="${photo}" alt="">`;
   else if (CONTENT && CONTENT.brand) badge.textContent = CONTENT.brand.badge || "AS";
+  const nameEl = $("#sideName");
+  if (nameEl && CONTENT && CONTENT.brand && CONTENT.brand.name) nameEl.textContent = CONTENT.brand.name;
 }
 function logout() {
   sessionStorage.removeItem(TOKEN_KEY);
